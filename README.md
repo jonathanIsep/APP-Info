@@ -10,4 +10,8 @@ jte le renvoi une deuxième fois
 je modifie une tposieme fois 
  hjlhpohpom
 weshhhhhh
+<<<<<<< HEAD
 salut william !!!! yeahh
+=======
+test
+>>>>>>> 0a12033fce8858c42466f53090733d3ffeb8e37a
